@@ -1,4 +1,3 @@
-#test project
 pipeline {
 agent any
   stages {
